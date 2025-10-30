@@ -24,6 +24,8 @@ There are lots of fun things to do in Winona.  Here's a short list:
 - South East Minnesota is full of amazing trout streams.  The MN DNR has a [resource page with maps](https://www.dnr.state.mn.us/fishing/trout/index.html). The closest streams to campus are [Garvin Brook](https://maps.app.goo.gl/kS5dTASksrcMZxjz5), [Gilmore Creek](https://maps.app.goo.gl/TQmXCN1Gr5FTkcAV9), [East Burns Valley Creek](https://maps.app.goo.gl/k5oZZEnXCym7CEfWA), and [Pleasant Valley Creek](https://maps.app.goo.gl/MT3xDR3qNfWsnhQ58).   
 ![Map of Winona area trout streams](./images/Trout_Streams.png)
 
+- Going to the movie theater (https://cectheatres.com/theatre-pop/20/Winona-7-Theatre)
+
   # Disc Golf in Winona
 
 In Winona, there are three disc golf courses. One behind Saint Mary's University, one after the bridge across the lake when driving from the highway to Winona State, and one along the lake at the park by the Clinic and YMCA. 
